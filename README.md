@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um aplicativo para auxiliar o usuário a rastrear e melhorar seus hábitos sáudaveis.
 
-
+- [Visite o projeto online](https://marlonakio.github.io/NLW-Habits-Explorer)
 
 
 
