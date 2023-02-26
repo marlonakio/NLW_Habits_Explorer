@@ -24,7 +24,7 @@ Você no controle da sua rotina!
 ## 🛈 sobre
 
 <p align="justify">
-A Next Level Week (NLW) é um evento exclusivo e gratuito promovido pela Rocketseat este evento totalmente online e gratuito oferece uma experiência prática, com desafios e muito código para ensino de tecnologias WEB.<br/>
+A Next Level Week (NLW) é um evento exclusivo e gratuito promovido pela Rocketseat, este evento totalmente online e gratuito oferece uma experiência prática com desafios e muito código para ensino de tecnologias WEB.<br/>
 <p align="center">
   <img src="https://github.com/marlonakio/NLW-Habits-Explorer/blob/main/.github/nlw.jpg?raw=true" alt="Next Level Week" width="100%"/>
 <br>
@@ -43,6 +43,7 @@ Por se tratar de um aplicativo web, o usuário pode escolher por qual dispositiv
 - <h3> Aplicação Web - Desktop </h3>
 
 Ao acessar a aplicação o usuário irá visualizar os emojis onde cada um representa um hábito saudável, neste momento deverá clicar em `Registrar meu dia` para adicionar um dia na tela. Os quadrados cinza são clicáveis e ao clicar em um quadrado ele irá mudar para a cor roxa, indicando que este hábito foi concluído neste dia.
+
 Conforme for realizando os hábitos indicamos que o usuário marque para que não se esqueça!
 <p align="center">
   <img src="https://github.com/marlonakio/NLW-Habits-Explorer/blob/main/.github/web.jpg?raw=true" alt="Exemplo da aplicação web" width="60%"/>
