@@ -67,7 +67,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
   ## 💻 Projeto
 
-O link para acessar ao projeto e começar a utilizar o Habits está logo abaixo, acesse para começar a mapear sues hábitos saudáveis.
+O link para acessar ao projeto e começar a utilizar o Habits está logo abaixo, acesse para começar a mapear seus hábitos saudáveis.
 
 - [Visite o projeto online](https://marlonakio.github.io/NLW-Habits-Explorer)
 
