@@ -46,7 +46,7 @@ Ao acessar a aplicação o usuário irá visualizar os emojis onde cada um repre
 
 Conforme for realizando os hábitos indicamos que o usuário marque para que não se esqueça!
 <p align="center">
-  <img src="https://github.com/marlonakio/NLW-Habits-Explorer/blob/main/.github/web.jpg?raw=true" alt="Exemplo da aplicação web" width="60%"/>
+  <img src="https://github.com/marlonakio/NLW-Habits-Explorer/blob/main/.github/web.jpg?raw=true" alt="Exemplo da aplicação web" width="70%"/>
 
 - <h3> Aplicação Web - Mobile </h3>
 A versão mobile é bem similar a versão de desktop, também possui um painel dos hábitos e emojis que representam um hábito saudável, o botão `Registrar meu dia` se mantém no canto superior direito e é representado pelo símbolo de `+`.
